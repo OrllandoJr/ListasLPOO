@@ -1,0 +1,8 @@
+Exercício 3
+
+Descrição Narrativa: calcular volume de uma lata de óleo
+
+Receber o valor do Raio;
+Receber o valor da Altura;
+Calcular o Volume (Vol<- PI * R^2 * Altura)
+Mostrar o valor do Volume.
